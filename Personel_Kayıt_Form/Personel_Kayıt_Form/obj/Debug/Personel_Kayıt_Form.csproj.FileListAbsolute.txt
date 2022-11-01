@@ -1,0 +1,14 @@
+C:\Users\melike\source\repos\Personel_Kayıt_Form\Personel_Kayıt_Form\bin\Debug\Personel_Kayıt_Form.exe.config
+C:\Users\melike\source\repos\Personel_Kayıt_Form\Personel_Kayıt_Form\bin\Debug\Personel_Kayıt_Form.exe
+C:\Users\melike\source\repos\Personel_Kayıt_Form\Personel_Kayıt_Form\bin\Debug\Personel_Kayıt_Form.pdb
+C:\Users\melike\source\repos\Personel_Kayıt_Form\Personel_Kayıt_Form\obj\Debug\Personel_Kayıt_Form.csproj.AssemblyReference.cache
+C:\Users\melike\source\repos\Personel_Kayıt_Form\Personel_Kayıt_Form\obj\Debug\Personel_Kayıt_Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\melike\source\repos\Personel_Kayıt_Form\Personel_Kayıt_Form\obj\Debug\Personel_Kayıt_Form.Properties.Resources.resources
+C:\Users\melike\source\repos\Personel_Kayıt_Form\Personel_Kayıt_Form\obj\Debug\Personel_Kayıt_Form.csproj.GenerateResource.cache
+C:\Users\melike\source\repos\Personel_Kayıt_Form\Personel_Kayıt_Form\obj\Debug\Personel_Kayıt_Form.csproj.CoreCompileInputs.cache
+C:\Users\melike\source\repos\Personel_Kayıt_Form\Personel_Kayıt_Form\obj\Debug\Personel_Kayıt_Form.exe
+C:\Users\melike\source\repos\Personel_Kayıt_Form\Personel_Kayıt_Form\obj\Debug\Personel_Kayıt_Form.pdb
+C:\Users\melike\source\repos\Personel_Kayıt_Form\Personel_Kayıt_Form\obj\Debug\Personel_Kayıt_Form.Frmistatistik.resources
+C:\Users\melike\source\repos\Personel_Kayıt_Form\Personel_Kayıt_Form\obj\Debug\Personel_Kayıt_Form.FrmAnaForm.resources
+C:\Users\melike\source\repos\Personel_Kayıt_Form\Personel_Kayıt_Form\obj\Debug\Personel_Kayıt_Form.FrmGrafikler.resources
+C:\Users\melike\source\repos\Personel_Kayıt_Form\Personel_Kayıt_Form\obj\Debug\Personel_Kayıt_Form.FrmGiris.resources
